@@ -1,4 +1,0 @@
-Volumetric Rendering
---------------------
-
-(in progress)
